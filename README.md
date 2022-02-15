@@ -1,1 +1,1 @@
-This is a random quote generator machine: https://zwonx.github.io/Random_Quote_Generator/
+This is a random quote generator machine: https://pradeeprajnepal.github.io/Random_Quote_Generator/
